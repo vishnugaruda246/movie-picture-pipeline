@@ -1,0 +1,14 @@
+setup/terraform/.terraform/
+setup/terraform/*.tfstate
+setup/terraform/*.tfstate.*
+setup/terraform/.terraform.lock.hcl
+crash.log
+node_modules/
+starter/frontend/build
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.pem
+.env
+credentials
